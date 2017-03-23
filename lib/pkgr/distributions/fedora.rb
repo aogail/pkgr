@@ -46,3 +46,4 @@ end
 
 require 'pkgr/distributions/redhat'
 require 'pkgr/distributions/centos'
+require 'pkgr/distributions/oraclelinux'
